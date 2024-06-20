@@ -1,3 +1,5 @@
+CREATE DATABASE fitness_center_db
+
 USE fitness_center_db;
 
 -- Creating the Members table
